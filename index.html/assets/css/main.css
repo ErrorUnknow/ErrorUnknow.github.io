@@ -3330,11 +3330,23 @@ input, select, textarea {
 
 .justif {
 	text-align:justify;
-	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 .CSO {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 
+}
+#englishvideo {
+	margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+.lien {
+	color: red;
+}
+.titre {
+	text-align: center;
 }
